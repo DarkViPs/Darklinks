@@ -21,14 +21,14 @@
        <div class="videos">
         <div class="imgs">
         <img class="imgvideo1" src="img/video1.png" alt="">
-        <div class="botao1"> <a href="Videos-links/bot313"><button style="background: #ffffff; border-radius: 6px; padding: 15px; cursor: pointer; color: rgb(0, 0, 0); border: none; font-size: 16px;">ROBO(bot) PARA WHATSAPP COM 313 COMANDOS | BOT DE WHATSAPP PARA TERMUX</button></a></div>
+        <div class="botao1"> <a href="Videos-links/bot313.php"><button style="background: #ffffff; border-radius: 6px; padding: 15px; cursor: pointer; color: rgb(0, 0, 0); border: none; font-size: 16px;">ROBO(bot) PARA WHATSAPP COM 313 COMANDOS | BOT DE WHATSAPP PARA TERMUX</button></a></div>
         </div>
     </div>
     <img class="branco" src="img/branco.png" alt="">
     <div class="videos2">
         <div class="imgs2">
         <img class="imgvideo2" src="img/video1.png" alt="">
-        <div class="botao1"> <a href="https://wipsites.com.br"><button style="background: #ffffff; border-radius: 6px; padding: 15px; cursor: pointer; color: rgb(0, 0, 0); border: none; font-size: 16px;">ROBO(bot) PARA WHATSAPP COM 313 COMANDOS | BOT DE WHATSAPP PARA TERMUX</button></a></div>
+        <div class="botao1"> <a href="Videos-links/bot313.php"><button style="background: #ffffff; border-radius: 6px; padding: 15px; cursor: pointer; color: rgb(0, 0, 0); border: none; font-size: 16px;">ROBO(bot) PARA WHATSAPP COM 313 COMANDOS | BOT DE WHATSAPP PARA TERMUX</button></a></div>
         </div>
     </div>
     </div>
